@@ -33,9 +33,9 @@ venv/
 ############################
 # Data Files
 ############################
-data/raw/
-data/processed/
-data/curated/
+# data/raw/
+data/extracted/
+# data/processed/
 *.csv
 *.tsv
 *.parquet
